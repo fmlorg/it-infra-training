@@ -10,6 +10,12 @@ e.g. Colitas (assistance system), cognitive learning.
 ## Cognitive learning
 
 
+## Education for beginners
+
+- [LPI Webinar (2024-06-08)](https://lpic-2024q2.demo.fml.org/)
+    - Experience the HTTP protocol uncovering the WWW browser
+    - ブラウザのフタを開けてHTTP体験しよう
+
 
 <HR>
 Last-Modified: 2024-07-08
